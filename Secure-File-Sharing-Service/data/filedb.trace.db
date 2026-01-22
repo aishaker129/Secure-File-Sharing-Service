@@ -1,0 +1,6 @@
+2026-01-22 02:38:01.444002+06:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILE_RECORD" not found (this database is empty); SQL statement:
+select fr1_0.id,fr1_0.download_token,fr1_0.expiary_time,fr1_0.file_path,fr1_0.filename,fr1_0.otp,fr1_0.otp_used,fr1_0.upload_time from file_record fr1_0 [42104-240]
+2026-01-22 02:39:01.357570+06:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "FILE_RECORD" not found (this database is empty); SQL statement:
+select fr1_0.id,fr1_0.download_token,fr1_0.expiary_time,fr1_0.file_path,fr1_0.filename,fr1_0.otp,fr1_0.otp_used,fr1_0.upload_time from file_record fr1_0 [42104-240]
